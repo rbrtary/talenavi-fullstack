@@ -1,9 +1,9 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "laravel/todo-api",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "Technical Test Fullstack PT Talenavi - Todo List API (Laravel 13) dengan export Excel.",
+    "keywords": ["laravel", "api", "todo", "excel"],
     "license": "MIT",
     "require": {
         "php": "^8.3",
