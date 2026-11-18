@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Poppins', ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand: #cc3606;
+  --color-brand-dark: #a82c04;
+  --color-link: #1565c0;
+  --color-page: #e5e5e5;
+  --color-field: #e5eaee;
+  --color-placeholder: #a0aab5;
+  --color-mobile-bg: #26000d;
+}
+
+@utility login-card {
+  width: min(1216px, 84.55vw, calc((100dvh - 4rem) * 1155 / 726));
+  aspect-ratio: 1155 / 726;
+}
