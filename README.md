@@ -10,6 +10,13 @@ Repository ini berisi dua bagian technical test:
 
 Styling memakai **TailwindCSS** saja, tanpa UI library (Material, Bootstrap, PrimeNG, dsb).
 
+**Video demo (Loom):** _link menyusul_
+
+```bash
+git clone https://github.com/rbrtary/talenavi-fullstack.git
+cd talenavi-fullstack
+```
+
 ---
 
 ## Struktur folder
@@ -244,7 +251,23 @@ Cek di DevTools → **Application** → **Local Storage** → `http://localhost:
 
 ## Screenshots
 
+### Login Page
+
 | Desktop | Mobile |
 |---|---|
 | ![Login desktop](docs/screenshots/login-desktop.png) | ![Login mobile](docs/screenshots/login-mobile.png) |
 | ![Validasi desktop](docs/screenshots/login-validation-desktop.png) | ![Validasi mobile](docs/screenshots/login-validation-mobile.png) |
+
+| Login berhasil | Data di localStorage |
+|---|---|
+| ![Alert login berhasil](docs/screenshots/login-success-alert.png) | ![localStorage](docs/screenshots/login-localstorage.png) |
+
+### Backend
+
+**Request export di Postman**
+
+![Postman export](docs/screenshots/postman-export.png)
+
+**Hasil file Excel (dengan summary row)**
+
+![Excel report](docs/screenshots/excel-report.png)
