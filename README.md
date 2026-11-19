@@ -10,7 +10,7 @@ Repository ini berisi dua bagian technical test:
 
 Styling memakai **TailwindCSS** saja, tanpa UI library (Material, Bootstrap, PrimeNG, dsb).
 
-**Video demo (Loom):** _link menyusul_
+**Video demo (Loom):** https://www.loom.com/share/0fbf132b6d7c4157aa203231960678de
 
 ```bash
 git clone https://github.com/rbrtary/talenavi-fullstack.git
