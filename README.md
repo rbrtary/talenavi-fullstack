@@ -1,5 +1,7 @@
 # Technical Test Fullstack — PT Talenavi
 
+Dikerjakan oleh **Robert Aryawan Hartono**.
+
 Repository ini berisi dua bagian technical test:
 
 | Folder | Isi | Stack |
@@ -11,6 +13,8 @@ Repository ini berisi dua bagian technical test:
 Styling memakai **TailwindCSS** saja, tanpa UI library (Material, Bootstrap, PrimeNG, dsb).
 
 **Video demo (Loom):** https://www.loom.com/share/0fbf132b6d7c4157aa203231960678de
+
+> **Catatan video:** rekaman dibuat di Ubuntu dengan ekstensi Loom untuk Chrome. Kamera dinyalakan selama perekaman, tetapi camera bubble ekstensi Loom hanya tampil saat layar berada di Chrome, sehingga tidak terlihat ketika demo berpindah ke Postman dan VS Code. Ini keterbatasan Loom di Linux ([dokumentasi Loom](https://support.atlassian.com/loom/docs/make-your-camera-bubble-visible-in-loom-recordings/)).
 
 ```bash
 git clone https://github.com/rbrtary/talenavi-fullstack.git
